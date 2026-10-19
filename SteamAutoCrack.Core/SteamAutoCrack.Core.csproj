@@ -21,7 +21,7 @@
     <PackageReference Include="SQLitePCLRaw.lib.e_sqlite3" Version="3.53.3" />
     <PackageReference Include="SteamKit2" Version="3.4.0" />
     <PackageReference Include="System.IO.Packaging" Version="10.0.10" />
-    <PackageReference Include="System.Security.Cryptography.Xml" Version="10.0.10" />
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="10.0.13" />
     <PackageReference Include="ValveKeyValue" Version="0.70.0.499" />
   </ItemGroup>
 
